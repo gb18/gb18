@@ -1,4 +1,8 @@
-### Hi there 👋
+### Welcome to my Github Page! 👋
+
+I currently work as an Infrastructure Supervisor at Medcloud but 
+I've worked as a delphi developer and web developer. Maybe you'll 
+find something interesting here 😄
 
 <!--
 **gb18/gb18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
