@@ -9,7 +9,7 @@ Here you can find me at my social medias.
 <div>
   <a href="https://www.linkedin.com/in/giusepe-budny-675111110" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:giubudny@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href = "instagram.com/giubudny"><img src="https://image.flaticon.com/icons/png/512/2111/2111463.png" target="_blank">Instagram</a>
+  <a href = "instagram.com/giubudny"><img src="https://image.flaticon.com/icons/png/512/2111/2111463.png" width=10 height=10 target="_blank"></a>
 </div>
 
 <div>
