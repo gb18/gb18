@@ -11,12 +11,33 @@ Here you can find me at my social medias.
   <a href = "mailto:giubudny@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-<hr>
- <div>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gb18&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gb18&layout=compact&langs_count=7&theme=dracula&count_private=true"/>
+<div style=".lds-dual-ring {
+  display: inline-block;
+  width: 80px;
+  height: 80px;
+}
+.lds-dual-ring:after {
+  content: " ";
+  display: block;
+  width: 64px;
+  height: 64px;
+  margin: 8px;
+  border-radius: 50%;
+  border: 6px solid #fff;
+  border-color: #fff transparent #fff transparent;
+  animation: lds-dual-ring 1.2s linear infinite;
+}
+@keyframes lds-dual-ring {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+">
+  
  </div>
- <hr>
 
 <!--
 **gb18/gb18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
