@@ -7,7 +7,7 @@ find something interesting here 😄
 <div>
   <a href="https://www.linkedin.com/in/giusepe-budny-675111110" target="_blank"><img src="https://image.flaticon.com/icons/png/512/1384/1384889.png" height=50 width=50 target="_blank"></a>
   <a href = "mailto:giubudny@gmail.com"><img src="https://img-premium.flaticon.com/png/512/2875/premium/2875394.png?token=exp=1630009066~hmac=5c29b007165fe8c49d164dc1f83d8bec" target="_blank" width=50 height=50></a>
-  <a href = "instagram.com/giubudny"><img src="https://image.flaticon.com/icons/png/512/2111/2111463.png" width=50 height=50 target="_blank"></a>
+  <a href = "https://www.instagram.com/giubudny"><img src="https://image.flaticon.com/icons/png/512/2111/2111463.png" width=50 height=50 target="_blank"></a>
 </div>
 
 <div>
