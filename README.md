@@ -1,8 +1,8 @@
 ### Welcome to my Github Page! 👋
 
 I currently work as an Infrastructure Supervisor at Medcloud but 
-I've worked as a delphi developer and web developer. Maybe you'll 
-find something interesting here 😄
+I've worked as a delphi developer, web developer and integrations 
+analyst e developer. Maybe you'll find something interesting here 😄
 
 <div>
   <a href="https://www.linkedin.com/in/giusepe-budny-675111110" target="_blank"><img src="https://image.flaticon.com/icons/png/512/1384/1384889.png" height=50 width=50 target="_blank"></a>
