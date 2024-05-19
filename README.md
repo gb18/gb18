@@ -1,6 +1,6 @@
 <div>
         <h2>Hey there! Welcome... 👋</h2>
-        <span>I'm currently working as an Infrastructure Supervisor at Medcloud but I've worked as a delphi developer, web developer and integrations analyst and developer. Maybe you'll find something interesting here 😄</span>
+        <span>I'm currently working as a Senior DevOps Engineer at MTP | PwC but I've worked as a delphi developer, web developer, integrations analyst and developer, DevOps manager, Software Development Manager. Maybe you'll find something interesting here 😄</span>
 </div>
 <br>
 <div>
